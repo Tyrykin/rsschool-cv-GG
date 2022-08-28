@@ -11,7 +11,7 @@
 
 ## Information about me.
 
-My name is Ilyyyyyyya, I am 25 years old, I live in Belarus in the city of Brest. I am a technologist by profession, I work as a quality controller in the ETERE shop, but I want to improve my skills. My goal is to become a Front-End Developer. I have a constant desire to learn something new and develop.
+My name is Ilya, I am 25 years old, I live in Belarus in the city of Brest. I am a technologist by profession, I work as a quality controller in the ETERE shop, but I want to improve my skills. My goal is to become a Front-End Developer. I have a constant desire to learn something new and develop.
 
 ## Skills:
 
